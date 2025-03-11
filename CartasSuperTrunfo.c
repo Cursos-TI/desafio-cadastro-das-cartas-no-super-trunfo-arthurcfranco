@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-printf ("Desafio CartaSuperTrunfo. \n"
+printf ("Desafio CartaSuperTrunfo. \n")
     
     char carta = 1;
     char estado, código [20], cidade [20];
